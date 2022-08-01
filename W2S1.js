@@ -31,8 +31,8 @@ tampung = 0;
 
 // console.log(array)
 // console.log(array.length)
-console.log(min)
-console.log(max)
+console.log(min) //10
+console.log(max) //14
 
 
 // Program Bilangan Prima Atau Bukan
