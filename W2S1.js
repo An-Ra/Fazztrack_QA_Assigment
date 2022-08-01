@@ -1,3 +1,4 @@
+// Program Max Min
 let array = [1,2,3,4,5]
 let max 
 let min 
@@ -32,3 +33,26 @@ tampung = 0;
 // console.log(array.length)
 console.log(min)
 console.log(max)
+
+
+// Program Bilangan Prima Atau Bukan
+
+const apakahPrima = (angka) => {
+    let pembagi = 0;
+    for(let i=1; i <= angka; i++){
+      if(angka%i == 0){
+        pembagi++
+      }
+    }
+    if(pembagi == 2){
+      console.log("prima")
+    }else{
+      console.log("bukan prima")
+    }
+  }
+  
+
+  apakahPrima(2); //prima
+  apakahPrima(3); //prima
+  apakahPrima(4); //bukan prima
+  apakahPrima(9); //bukan prima
