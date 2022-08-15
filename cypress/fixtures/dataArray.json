@@ -1,0 +1,33 @@
+[
+    {
+        "quote" : "You Can do it!!!",
+        "color" : "white"
+     
+    },
+    {
+        "quote" : "Quote 1",
+        "color" : "White"
+    
+    },
+    {
+        "quote" : "Quote 2",
+        "color" : "Yellow"
+     
+    },
+    {
+        "quote" : "Quote 3",
+        "color" : "Cyan"
+   
+    },
+    {
+        "quote" : "Quote 4",
+        "color" : "Magenta"
+     
+    },
+    {
+        "quote" : "Quote 5",
+        "color" : "Blue"
+        
+    }
+    
+]
