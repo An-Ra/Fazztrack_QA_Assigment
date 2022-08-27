@@ -11,6 +11,9 @@ Terdapat Dua Scenario Setiap Produk Memiliki Label PWP dan invalid Scenario Seti
 ![image](https://user-images.githubusercontent.com/29125099/186329704-05a155a5-2fbe-49f4-984f-63190ef6996e.png)
 * Gambar Tes Scenario Invalid <br>
 ![image](https://user-images.githubusercontent.com/29125099/186329818-30d2ac8b-a549-4f6a-bf80-4bc7c0ea4a3f.png)
+* Lokasi Scenario Failed
+![fairpirce promotion -- I want to check every product have invalid label PWP (failed)](https://user-images.githubusercontent.com/29125099/187044955-9e58ac42-349e-416a-82dd-ea7a017a2265.png)
+
 * Video Tes Keseluruhan <br>
 
 
