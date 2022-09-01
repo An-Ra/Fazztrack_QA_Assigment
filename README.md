@@ -5,7 +5,7 @@ E2E Testing Input dan Validasi Pada Website Koligrum Menggunakan Cypress
 ### Penggunaan
 * Pastikan Website Koligrum Masih Tersedia
 Jika Tida Test Ini tidak dapat di Jalankan
-[Website Koligrum](bcb7-13-67-75-93.ngrok.io)
+[Website Koligrum](http://bcb7-13-67-75-93.ngrok.io)
 * Clone Repository
 ```
 git clone -b Assignment_5 https://github.com/An-Ra/Fazztrack_QA_Assigment.git
