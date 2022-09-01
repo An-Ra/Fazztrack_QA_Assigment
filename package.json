@@ -1,0 +1,23 @@
+{
+  "name": "assignment_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "newman run W2S2.postman_collection.json -e Environment.postman_environment.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/An-Ra/W2S2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/An-Ra/W2S2/issues"
+  },
+  "homepage": "https://github.com/An-Ra/W2S2#readme",
+  "devDependencies": {
+    "newman": "^5.3.2"
+  }
+}
