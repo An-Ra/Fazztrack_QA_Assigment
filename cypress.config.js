@@ -5,6 +5,6 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
-    baseUrl: 'https://b899-13-67-75-93.ngrok.io',
+    baseUrl: 'http://bcb7-13-67-75-93.ngrok.io',
   },
 });
