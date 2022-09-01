@@ -1,0 +1,24 @@
+{
+  "name": "js-sql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "soal_10.js",
+  "scripts": {
+    "soal6": "node soal_6.js",
+    "soal7": "node soal_7.js",
+    "soal8": "node soal_8.js",
+    "soal9": "node soal_9.js",
+    "soal10": "node soal_10.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/An-Ra/Fazztrack_QA_Assigment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/An-Ra/Fazztrack_QA_Assigment/issues"
+  },
+  "homepage": "https://github.com/An-Ra/Fazztrack_QA_Assigment#readme"
+}
