@@ -16,7 +16,7 @@ Javascript Dasar Mencari Bilangan Prima
 ```
 * Branch Assignment_3
 ```
-Pengetesan API Menggunakan Postman dan Newman
+Pengetesan API Menggunakan Postman dan Newman pada Website regres.in
 ```
 * Branch Assignment_4
 ```
