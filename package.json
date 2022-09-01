@@ -1,0 +1,19 @@
+{
+  "name": "assignment_2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "W2S1.js",
+  "scripts": {
+    "test": "node W2S1.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/An-Ra/W2S1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/An-Ra/W2S1/issues"
+  },
+  "homepage": "https://github.com/An-Ra/W2S1#readme"
+}
