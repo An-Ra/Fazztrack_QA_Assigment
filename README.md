@@ -4,29 +4,26 @@ Repository Ini Merupakan Kumpulan Tugas Saya Yang diberikan Oleh Fazztrack Selam
 ## Cara Penggunaan
 Repository ini di susun berdasarkan nama tugas dan di simpan di dalam branch berbeda <br>
 berikut daftar isinya
-* Assigmnet_1 <br>
+* Assignment_1 <br>
 Assignment ini terpisah <br>
 [Link Assigment_1](https://github.com/An-Ra/W1S2)
-```
-Dasar Git Versioning 
-```
+<br>Dasar Git Versioning 
+
 * Branch Assignment_2
-```
-Javascript Dasar Mencari Bilangan Prima
-```
+<br>Javascript Dasar Mencari Bilangan Prima
+
 * Branch Assignment_3
-```
-Pengetesan API Menggunakan Postman dan Newman pada Website regres.in
-```
+<br>Pengetesan API Menggunakan Postman dan Newman pada Website regres.in
+
 * Branch Assignment_4
-```
-Pengetesan API Menggunakan Mocha & Chai dengan Hook dan Mocha Report
-```
+<br>Pengetesan API Menggunakan Mocha & Chai dengan Hook dan Mocha Report
+
 * Branch Assignmnet_5
-```
-E2E Testing Menggunakan Cypress untuk Input dan Validasi Output Pada Website Koligrum
-```
+<br>E2E Testing Menggunakan Cypress untuk Input dan Validasi Output Pada Website Koligrum
+
 * Branch Assignment_6
-```
-E2E Testing Menggunakan Gherkin, Pageobject, pada Cypress Untuk Validasi Label PWP pada Website fairprice.com.sg
-```
+<br>E2E Testing Menggunakan Gherkin, Pageobject, pada Cypress Untuk Validasi Label PWP pada Website fairprice.com.sg
+
+* Branch Assignment_7
+<br> Tugas SQL & JS
+
